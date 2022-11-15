@@ -14,7 +14,7 @@ function App() {
   }
 
   const addVal=() => {
-    dispatch({type: 'ADDVAL', payload:28});
+    dispatch({type: 'ADDVAL', payload:10});
   }
   return (
     <div>
